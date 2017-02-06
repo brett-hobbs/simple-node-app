@@ -1,0 +1,27 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "sinon": "^1.17.7"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --opts mocha.opts",
+    "lint": "node_modules/.bin/eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brett-hobbs/simple-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brett-hobbs/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/brett-hobbs/simple-node-app#readme"
+}
