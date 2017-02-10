@@ -1,3 +1,4 @@
+--require ./test/setup.js
 --check-leaks
 --full-trace
 --slow 75
