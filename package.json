@@ -15,6 +15,7 @@
   },
   "scripts": {
     "test": "node_modules/.bin/mocha --opts mocha.opts",
+    "watch": "node_modules/.bin/mocha --opts mocha.opts -w",
     "lint": "node_modules/.bin/eslint *.js"
   },
   "repository": {
