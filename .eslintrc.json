@@ -30,7 +30,6 @@
         "bracketSpacing": true,
         "jsxBracketSameLine": false,
         "printWidth": 120,
-        "semi": false,
         "singleQuote": true,
         "tabWidth": 2
       }
@@ -40,7 +39,6 @@
     "quotes": ["error", "single"],
     "semi": ["error", "always"],
     "no-console": "off",
-    "react/jsx-uses-vars": 2,
     "no-unused-vars": "error",
     "prefer-const": "error",
     "no-var": "error"
